@@ -78,7 +78,7 @@ const Experience = () => {
             <article className="experience_details">
                 <BsPatchCheckFill className='experience_details-icon' />
               <div>
-              <h4>Python</h4>
+              <h4>Shell Scripting</h4>
               <small className="text-light">Basic</small>
               </div>
             </article>
