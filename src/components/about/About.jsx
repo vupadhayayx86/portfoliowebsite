@@ -26,7 +26,7 @@ const About = () => {
               <article className="about_card">
                 <FaAward className="about_icon" />
                 <h5>Experience</h5>
-                <small>5+ Years Working</small>
+                <small>9+ Years Working</small>
               </article>
             
               {/*Card 2 */}
@@ -34,18 +34,20 @@ const About = () => {
               <article className="about_card">
                 <FiUsers className="about_icon" />
                 <h5>Clients</h5>
-                <small>20+ Worldwide</small>
+                <small>3+ Worldwide</small>
               </article>
   
             {/*Card 3 */}
               <article className="about_card">
                 <VscFolderLibrary className="about_icon" />
                 <h5>Projects</h5>
-                <small>80+ Completed</small>
+                <small>25+ Completed</small>
               </article>
             
           </div>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ex omnis, provident pariatur molestiae aliquid minima? Maiores rem necessitatibus incidunt nulla nam vero culpa consequuntur? Explicabo aliquid qui repellendus illo esse.</p>
+            <p>
+            Hey! My name is Vishal. I am a front-end developer based in Mumbai, India. I've always been someone who has both a creative and logical side. When I discovered web design in college. I realized it would be the perfect fit. I could use my creative side to design and my logical side to code. I specialize in creating sites for individuals and small businesses. I provide custom designs at affordable prices.
+            </p>
             <a href="#contact" className='btn btn-primary'>Let's Talk</a>
         </div>
       </div>

@@ -5,51 +5,51 @@ import IMG1 from '../../assets/portfolio1.jpg'
 import IMG2 from '../../assets/portfolio2.jpg'
 import IMG3 from '../../assets/portfolio3.jpg'
 import IMG4 from '../../assets/portfolio4.jpg'
-import IMG5 from '../../assets/portfolio5.png'
+import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
 const data=[
   {
   id:1,
   image:IMG1,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'Chat GPT Frontend',
+  github:'https://github.com/vupadhayayx86/gpt3frontend/tree/main',
+  demo:'https://gpt3-yw64.onrender.com/'
 },
 {
   id:2,
   image:IMG2,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'Gericht Fine Dinning Restaurant',
+  github:'https://github.com/vupadhayayx86/restaurantfrontend/tree/main',
+  demo:'https://gerichtrestaurant.onrender.com/'
 },
 {
   id:3,
   image:IMG3,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'Simple DOJO Blog in React JS',
+  github:'https://github.com/vupadhayayx86/simpleblogsite/tree/main',
+  demo:'https://simpleblog-h27x.onrender.com/'
 },
 {
   id:4,
   image:IMG4,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'Mix-or-Match Game in Vanilla JS',
+  github:'https://github.com/vupadhayayx86/mixmatchgame',
+  demo:'https://vupadhayayx86.github.io/mixmatchgame/'
 },
 {
   id:5,
   image:IMG5,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'Tindog Dating in Bootstarp',
+  github:'https://github.com/vupadhayayx86/tindog',
+  demo:'https://vupadhayayx86.github.io/tindog/'
 },
 {
   id:6,
   image:IMG6,
-  title: 'Crypto Currency Dashboard & Financial Visualization',
-  github:'https://github.com',
-  demo:'https://dribbble.com/shots/16673715-Crypto-currency-dashboards-and-financial-data-visualization'
+  title: 'WORDLE lingo game in React JS',
+  github:'https://github.com/vupadhayayx86/wordlegameapp/tree/main',
+  demo:'https://wordlegameapp.onrender.com/'
 }
 ]
 
